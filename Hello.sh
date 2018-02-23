@@ -1,2 +1,1 @@
-echo "Hello"
-echo "New Line added"
+echo "Push Test working successfully"
